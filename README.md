@@ -132,13 +132,17 @@ plt.show()
 
 # OUTPUT:
 
-![alt text](image.png)
+<img width="388" height="145" alt="Screenshot 2026-05-22 112944" src="https://github.com/user-attachments/assets/c2f15d26-3c6e-4654-b2f4-33ea2f4e98b5" />
 
-![alt text](image-1.png)
 
-![alt text](image-2.png)
+<img width="508" height="536" alt="Screenshot 2026-05-22 112955" src="https://github.com/user-attachments/assets/43fcafef-5f45-4dd6-8d45-909f3001d910" />
+
+
+<img width="715" height="542" alt="Screenshot 2026-05-22 113012" src="https://github.com/user-attachments/assets/9976a249-7e56-42f8-b59b-5ac19d91702b" />
+
    
-![alt text](image-3.png)
+<img width="692" height="544" alt="Screenshot 2026-05-22 113025" src="https://github.com/user-attachments/assets/e99a35d0-df6d-4fc9-af36-ce3d6c77d191" />
+
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
