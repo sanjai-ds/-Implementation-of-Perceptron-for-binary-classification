@@ -135,7 +135,13 @@ plt.show()
 <img width="388" height="145" alt="Screenshot 2026-05-22 112944" src="https://github.com/user-attachments/assets/c2f15d26-3c6e-4654-b2f4-33ea2f4e98b5" />
 
 
+
+
+
 <img width="508" height="536" alt="Screenshot 2026-05-22 112955" src="https://github.com/user-attachments/assets/43fcafef-5f45-4dd6-8d45-909f3001d910" />
+
+
+
 
 
 <img width="715" height="542" alt="Screenshot 2026-05-22 113012" src="https://github.com/user-attachments/assets/9976a249-7e56-42f8-b59b-5ac19d91702b" />
